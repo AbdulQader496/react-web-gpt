@@ -1,10 +1,10 @@
 import React from 'react';
 import './header.css';
 
-const header = () => {
+const Headers = () => {
   return (
-    <div>header</div>
+    <div>Headers</div>
   )
 }
 
-export default header
+export default Headers
